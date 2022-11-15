@@ -1,1 +1,0 @@
-Atividade da Aula 8 sobre as Propriedades do CSS, Curso Digital House, em 07/11/2022.
